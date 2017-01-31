@@ -60,7 +60,8 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
     + Reading: 
         * Boat, Ch. 3.7 and 3.8.6 ([available through moodle](https://moodle.colgate.edu/mod/resource/view.php?id=193842)).  For those who have more programming experience, you are encouraged to read all of 3.8 to learn about subqueries more generally.
         * BD, Ch. 5 Datafication
-        * [Potholes and Big Data: Crowdsourcing Our Way to Better Government](https://www.wired.com/insights/2014/03/potholes-big-data-crowdsourcing-way-better-government/), [The Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data)
+        * [Potholes and Big Data: Crowdsourcing Our Way to Better Government](https://www.wired.com/insights/2014/03/potholes-big-data-crowdsourcing-way-better-government/)
+        * [The Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data)
         * Supplemental: [Quantitative Analysis of Culture Using Millions of Digitized Books](http://science.sciencemag.org/content/331/6014/176).  The article in Science that is one of the examples of datafication from BD.5.
 
 ### Week 4
