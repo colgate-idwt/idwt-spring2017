@@ -43,7 +43,7 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
     + Reading: 
         * Boat, Ch. 3-3.3 ([available through moodle](https://moodle.colgate.edu/mod/resource/view.php?id=193842)).  Skim 3-3.2.  Read 3-3.3.1 very closely.  You can skip 3.3.2, 3.3.3.
         * BD, Ch. 3 Messy
-        * [The Future Of Work Looks Like A UPS Truck](http://www.npr.org/sections/money/2014/05/02/308640135/episode-536-the-future-of-work-looks-like-a-ups-truck) -- this is not necessarily related to Ch. 3 specifically but is related to big data more generaally.
+        * [The Future Of Work Looks Like A UPS Truck](http://www.npr.org/sections/money/2014/05/02/308640135/episode-536-the-future-of-work-looks-like-a-ups-truck) -- this is not necessarily related to Ch. 3 specifically but is related to big data more generally.
         * Supplemental: [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) -- (long) article about Google Translate, which is discussed in BD Ch. 3.
 
 
