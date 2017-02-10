@@ -53,7 +53,7 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
     + Reading: 
         * Boat, Ch. 3.3-3.4 ([available through moodle](https://moodle.colgate.edu/mod/resource/view.php?id=193842)).  Read 3.3.2 very closely.  You can skip.  Read 3.4-3.4.4, which has some handy additional features.  You can skip 3.4.5.
         * BD, Ch. 4 Correlation
-        *  [The End of Theory](https://www.wired.com/2008/06/pb-theory/) by Chris Andersen. 
+        * [The End of Theory](https://www.wired.com/2008/06/pb-theory/) by Chris Andersen. 
         * Supplemental: [a subsequent interview with Chris Anderson Search and Destroy](http://www.wnyc.org/story/130967-search-and-destroy/)
 
 - **Wed, Feb 08 Lecture 6: Datafication & SQL Aggregation**
@@ -65,6 +65,18 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * Supplemental: [Quantitative Analysis of Culture Using Millions of Digitized Books](http://science.sciencemag.org/content/331/6014/176).  The article in Science that is one of the examples of datafication from BD.5.
 
 ### Week 4
+
+- **Wed, Feb 08 Lecture 6: Value and Wrap Up SQL**
+    + Reading: 
+        * BD, Ch. 6 Value
+        * Reading Engagement Exercise #3: How do you get value from data? Identify 4 different ways. For each way, provide a concrete example from the book (1-2 sentences each).  *Turn this [on moodle](https://moodle.colgate.edu/mod/assign/view.php?id=196431) sometime by 11:55pm Sunday night.*
+        * We'll wrap up SQL in class on Monday.  Please review previous SQL readings, especially about *joins* and *subqueries*.
+- **Mon, Feb 13 Lecture 7:**
+    + Reading: 
+        * BD, Ch. 7 Implications
+        * *additional readings TBD*    
+
+
 
 *... check back here each week for readings, etc.*
 
