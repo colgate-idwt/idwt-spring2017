@@ -2,6 +2,7 @@
 
 This repository contains course materials for Core 109S In Data We Trust?  Spring 2017 edition.
 
+**Office hours** Go [here](https://goo.gl/6STXDi) to schedule an office hour visit.  Office hours may change from week to week but generally they will be M,W 4-5:15pm and F 2-4.
 
 ## Schedule
 
