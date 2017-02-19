@@ -61,17 +61,24 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Week 4
 
-- **Mon, Feb 13 Lecture 7: Value and Wrap Up SQL**
+- **Mon, Feb 13** *Class was cancelled*
+
+- **Mon, Feb 15 Lecture 7: Value and Wrap Up SQL**
     + Reading: 
         * BD, Ch. 6 Value
-        * Reading Engagement Exercise #3: How do you get value from data? Identify 4 different ways. For each way, provide a concrete example from the book (1-2 sentences each).  *Turn this [on moodle](https://moodle.colgate.edu/mod/assign/view.php?id=196431) sometime by 11:55pm Sunday night.*
-        * We'll wrap up SQL in class on Monday.  Please review previous SQL readings, especially about *joins* and *subqueries*.
-- **Wed, Feb 15 Lecture 8: Implications and Risks**
-    + Reading: 
         * BD, Ch. 7 Implications and Ch. 8 Risks.
-    + Work on HW#1!
+        * Reading Engagement Exercise #3: How do you get value from data? Identify 4 different ways. For each way, provide a concrete example from the book (1-2 sentences each).  *Turn this [on moodle](https://moodle.colgate.edu/mod/assign/view.php?id=196431) sometime by 11:55pm Sunday night.*
+        * We wrapped up SQL in class.  Please review previous SQL readings, especially about *joins* and *subqueries*.
 
 ## Week 5
+
+- **Mon, Feb 20 Lecture 8**
+    + Reading: 
+        * *None!* Work on HW#1.
+- **Wed, Feb 22** *Class is cancelled due to travel*
+    + Work on HW#1!
+
+## Week 6
 
 *... check back here each week for readings, etc.*
 
