@@ -72,13 +72,35 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Week 5
 
-- **Mon, Feb 20 Lecture 8**
+- **Mon, Feb 20 Lecture 8: SQL Review**
     + Reading: 
         * *None!* Work on HW#1.
 - **Wed, Feb 22** *Class is cancelled due to travel*
-    + Work on HW#1!
+    + Work on HW#1! Due Sunday night!
 
 ## Week 6
+
+- **Mon, Feb 27 Lecture 9: Describing and Evaluating Computer Algorithms**
+    + Reading: 
+        * Ch. 1 & 2 of Algorithms Unlocked, by Thomas Cormen.  Available [online through the Colgate library](http://site.ebrary.com/lib/colgate/detail.action?docID=10672795).
+    + In the next two weeks, I want to dive into some technical questions.  The first question is the following: *How do we process big data efficiently?*  We will look at some basic tasks, such as finding rows in a table, joining two tables together.  We will see that we can use more fundamental operations -- binary search and sorting -- to solve these tasks.
+- **Wed, Mar 1 Lecture 10: Algorithms for search and sort**
+    + Reading:
+        * Ch. 3 of Algorithms Unlocked, by Thomas Cormen.  Available [online through the Colgate library](http://site.ebrary.com/lib/colgate/detail.action?docID=10672795) 
+
+## Week 7
+
+- **Mon, Mar 6 Lecture 11: Searching and sorting with big data**
+    + Reading: 
+        * Review last week's reading.
+        * Ch. 1 and 2 of Nine algorithms that changed the future: the ingenious ideas that drive today's computers, by John MacCormick.  Available [online through the Colgate library](http://exlibris.colgate.edu:2060/patron/FullRecord.aspx?p=781782&userid=pk59On%2frYVU%3d&tstamp=1487955348&id=CCE1B06C5836ACC43C6DA2979442B3B3BACE8FE7&conl=colgate) 
+    + This reading describes a very basic task that Google carries out millions of times a day: finding relevant pages for a web search.  We will connect this reading to our earlier examination of searching and sorting.
+- **Wed, Feb 8 Lecture 12: Algorithms for combining datasets**
+    + Reading:
+        * None
+    + In this lecture, I want to explore a second question: *How do we link disparate data sources?*  Unlike a join, the challenge here is that we don't necessarily have attributes in common.  This problem comes up in the Big Data world quite often -- several examples were given in Ch. 6 of BD (specifically the Recombinant Data section).
+
+*Enjoy spring break!*
 
 *... check back here each week for readings, etc.*
 
