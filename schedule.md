@@ -86,19 +86,22 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
     + In the next two weeks, I want to dive into some technical questions.  The first question is the following: *How do we process big data efficiently?*  We will look at some basic tasks, such as finding rows in a table, joining two tables together.  We will see that we can use more fundamental operations -- binary search and sorting -- to solve these tasks.
 - **Wed, Mar 1 Lecture 10: Algorithms for search and sort**
     + Reading:
-        * Ch. 3 of Algorithms Unlocked, by Thomas Cormen.  Available [online through the Colgate library](http://site.ebrary.com/lib/colgate/detail.action?docID=10672795) 
+        * Ch. 3 of Algorithms Unlocked, by Thomas Cormen.  Available [online through the Colgate library](http://site.ebrary.com/lib/colgate/detail.action?docID=10672795).
 
 ## Week 7
 
 - **Mon, Mar 6 Lecture 11: Searching and sorting with big data**
     + Reading: 
         * Review last week's reading.
-        * Ch. 1 and 2 of Nine algorithms that changed the future: the ingenious ideas that drive today's computers, by John MacCormick.  Available [online through the Colgate library](http://exlibris.colgate.edu:2060/patron/FullRecord.aspx?p=781782&userid=pk59On%2frYVU%3d&tstamp=1487955348&id=CCE1B06C5836ACC43C6DA2979442B3B3BACE8FE7&conl=colgate) 
+        * Ch. 1 and 2 of Nine algorithms that changed the future: the ingenious ideas that drive today's computers, by John MacCormick.  Available [online through the Colgate library](http://exlibris.colgate.edu:2060/patron/FullRecord.aspx?p=781782&userid=pk59On%2frYVU%3d&tstamp=1487955348&id=CCE1B06C5836ACC43C6DA2979442B3B3BACE8FE7&conl=colgate). 
     + This reading describes a very basic task that Google carries out millions of times a day: finding relevant pages for a web search.  We will connect this reading to our earlier examination of searching and sorting.
-- **Wed, Feb 8 Lecture 12: Algorithms for combining datasets**
+- **Wed, Mar 8 Lecture 12: Algorithms for combining datasets**
     + Reading:
-        * None
-    + In this lecture, I want to explore a second question: *How do we link disparate data sources?*  Unlike a join, the challenge here is that we don't necessarily have attributes in common.  This problem comes up in the Big Data world quite often -- several examples were given in Ch. 6 of BD (specifically the Recombinant Data section).
+        * [Work, Welfare Rolls Matched: Privacy Backers Hit HEW Project.](http://books.google.com/books?id=3wLD-4p12toC)
+        * John Oliver's [This Week, Tonight: Episode on Credit Reports](https://www.youtube.com/watch?v=aRrDsbUdY_k)
+    + In this lecture, I want to explore a second question: *How do we link disparate data sources?*  Unlike a join, the challenge here is that the data sources that we want to join are not connected by key/foreign key relationships.  This problem comes up in the Big Data world quite often -- several examples were given in Ch. 6 of BD (specifically the Recombinant Data section).  The readings for this lecture provide some other examples.
+
+- **Friday, Mar 10:** [Reading Engagement Exercise #4](hw/reading_engagement_4.pdf) is due.
 
 *Enjoy spring break!*
 
@@ -106,7 +109,7 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Important dates
 
-- Wed, Mar 8: Midterm Exam (in class) -- this date is *tentative*
+- Wed, Mar 29: Midterm Exam (in class) -- this date is *tentative*
 - Fri, Apr 21: NASC Colloquium Talk: *Data Analysis with Privacy Protection: Seeing the Forest But Not The Trees*
     + You are **required** to attend this event.
 - Monday, May 08 **Final Exam** 3:00pm-5:00pm.
