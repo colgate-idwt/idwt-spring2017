@@ -1,4 +1,4 @@
-# Schedule
+``# Schedule
 
 ## Text nicknames
 
@@ -93,7 +93,7 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 - **Mon, Mar 6 Lecture 11: Searching and sorting with big data**
     + Reading: 
         * Review last week's reading.
-        * Ch. 1 and 2 of Nine algorithms that changed the future: the ingenious ideas that drive today's computers, by John MacCormick.  Available [online through the Colgate library](http://exlibris.colgate.edu:2060/patron/FullRecord.aspx?p=781782&userid=pk59On%2frYVU%3d&tstamp=1487955348&id=CCE1B06C5836ACC43C6DA2979442B3B3BACE8FE7&conl=colgate). 
+        * Ch. 1 and 2 of *Nine algorithms that changed the future: the ingenious ideas that drive today's computers*, by John MacCormick.  Available [online through the Colgate library catalog](http://library.colgate.edu/). 
     + This reading describes a very basic task that Google carries out millions of times a day: finding relevant pages for a web search.  We will connect this reading to our earlier examination of searching and sorting.
 - **Wed, Mar 8 Lecture 12: Algorithms for combining datasets**
     + Reading:
