@@ -1,4 +1,4 @@
-``# Schedule
+# Schedule
 
 ## Text nicknames
 
@@ -104,6 +104,15 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 - **Friday, Mar 10:** [Reading Engagement Exercise #4](hw/reading_engagement_4.pdf) is due.  Submit your essay via gradescope.
 
 *Enjoy spring break!*
+
+## Week 8
+
+- **Mon, Mar 20 Lecture 13: Algorithms for combining datasets**
+    + Reading:
+        * [Work, Welfare Rolls Matched: Privacy Backers Hit HEW Project.](http://books.google.com/books?id=3wLD-4p12toC)
+        * John Oliver's [This Week, Tonight: Episode on Credit Reports](https://www.youtube.com/watch?v=aRrDsbUdY_k)
+    + In this lecture, I want to explore a second question: *How do we link disparate data sources?*  Unlike a join, the challenge here is that the data sources that we want to join are not connected by key/foreign key relationships.  This problem comes up in the Big Data world quite often -- several examples were given in Ch. 6 of BD (specifically the Recombinant Data section).  The readings for this lecture provide some other examples.
+
 
 *... check back here each week for readings, etc.*
 
