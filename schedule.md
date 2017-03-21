@@ -113,6 +113,12 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * John Oliver's [This Week, Tonight: Episode on Credit Reports](https://www.youtube.com/watch?v=aRrDsbUdY_k)
     + In this lecture, I want to explore a second question: *How do we link disparate data sources?*  Unlike a join, the challenge here is that the data sources that we want to join are not connected by key/foreign key relationships.  This problem comes up in the Big Data world quite often -- several examples were given in Ch. 6 of BD (specifically the Recombinant Data section).  The readings for this lecture provide some other examples.
 
+- **Wed, Mar 22 Lecture 14: Introduction to Data Science**
+    + Reading:
+        * p. 1-4 of Ch. 1 of DSB (*Data Science for Business*, available online through the Colgate library)
+        * Skim the rest of Ch. 1
+        * Read Ch. 2 of DSB closely
+
 
 *... check back here each week for readings, etc.*
 
