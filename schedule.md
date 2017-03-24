@@ -120,6 +120,12 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * Read Ch. 2 of DSB closely
     + In this lecture, we will start in on a new "technical unit" that is focused on data mining (aka machine learning).  This is the "correlation" part of Big Data.  We'll focus our attention the task of classification.
 
+- **Mon, Mar 27 Lecture 15: Decision Trees**
+    + Reading:
+        * Read Ch. 3 of DSB closely
+    + In this lecture, we will look closely at the decision tree algorithm that is described in Ch. 3 of DSB.
+
+
 *... check back here each week for readings, etc.*
 
 ## Important dates
