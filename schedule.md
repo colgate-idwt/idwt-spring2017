@@ -132,6 +132,7 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * Review Ch. 3 of DSB.
         * *No additional reading...  work on HW2!* 
     + We will continue to look at the decision tree algorithm that is described in Ch. 3 of DSB.
+    + Please come to class with questions on HW2.
 
 - **Wed, Apr 12: Midterm Exam (in class)***
     + The midterm exam will cover the technical material from homeworks 1 and 2.  It will *not* cover material from the machine learning part of the course.  The machine learning content will appear on the final exam.
