@@ -120,17 +120,26 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * Read Ch. 2 of DSB closely
     + In this lecture, we will start in on a new "technical unit" that is focused on data mining (aka machine learning).  This is the "correlation" part of Big Data.  We'll focus our attention the task of classification.
 
+## Week 9
+
 - **Mon, Mar 27 Lecture 15: Decision Trees**
     + Reading:
         * Read Ch. 3 of DSB closely
     + In this lecture, we will look closely at the decision tree algorithm that is described in Ch. 3 of DSB.
 
+- **Mon, Mar 29 Lecture 16: Decision Trees, continued...**
+    + Reading:
+        * Review Ch. 3 of DSB.
+        * *No additional reading...  work on HW2!* 
+    + We will continue to look at the decision tree algorithm that is described in Ch. 3 of DSB.
+
+- **Wed, Apr 12: Midterm Exam (in class)***
+    + The midterm exam will cover the technical material from homeworks 1 and 2.  It will *not* cover material from the machine learning part of the course.  The machine learning content will appear on the final exam.
 
 *... check back here each week for readings, etc.*
 
 ## Important dates
 
-- Wed, Mar 29: Midterm Exam (in class) -- this date is *tentative*
 - Fri, Apr 21: NASC Colloquium Talk: *Data Analysis with Privacy Protection: Seeing the Forest But Not The Trees*
     + You are **required** to attend this event.
 - Monday, May 08 **Final Exam** 3:00pm-5:00pm.
