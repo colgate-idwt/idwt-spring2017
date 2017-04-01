@@ -127,17 +127,32 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * Read Ch. 3 of DSB closely
     + In this lecture, we will look closely at the decision tree algorithm that is described in Ch. 3 of DSB.
 
-- **Mon, Mar 29 Lecture 16: Decision Trees, continued...**
+- **Wed, Mar 29 Lecture 16: Decision Trees, continued...**
     + Reading:
         * Review Ch. 3 of DSB.
         * *No additional reading...  work on HW2!* 
     + We will continue to look at the decision tree algorithm that is described in Ch. 3 of DSB.
     + Please come to class with questions on HW2.
 
+## Week 10
+
+- **Mon, Apr 3 Lecture 17**
+    + Reading:
+        * Read Ch. 4 of DSB.
+
+- **Wed, Apr 5 Lecture 18**
+    + Reading:
+        * Read Ch. 5 of DSB.
+    + Reminder: HW2 is due tonight.
+
+
+## Week 11
+
+*... check back here each week for readings, etc.*
+
 - **Wed, Apr 12: Midterm Exam (in class)***
     + The midterm exam will cover the technical material from homeworks 1 and 2.  It will *not* cover material from the machine learning part of the course.  The machine learning content will appear on the final exam.
 
-*... check back here each week for readings, etc.*
 
 ## Important dates
 
