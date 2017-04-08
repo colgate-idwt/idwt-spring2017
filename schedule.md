@@ -148,10 +148,28 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Week 11
 
-*... check back here each week for readings, etc.*
+- **Mon, Apr 10 Lecture 19**
+    + Reading:
+        * [Detecting influenza epidemics using search engine query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf).  This is the scientific article, published in Nature, describing Google Flu Trends (GFT).  It's only 2 pages but it is fairly dense and technical.  Your goal: (a) understand at a high level how GFT works, (b) find connections between the methodology used to build GFT and the machine learning reading you did in DSB.
+        * [The Parable of Google Flu: Traps in Big Data Analysis](http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf) An article in Science critiquing GFT.  Please read this closely.   
+    + Questions to guide your reading: Please come to class with answers to these questions:
+        1. The researchers ultimately frame the problem of detecting flu outbreaks as a specific data mining task.  What kind of task is it framed as? Choose among the tasks from DSB which include classification, regression, similarity matching, clustering, co-occurrence grouping, profiling, link prediction, data reduction, causal modeling.
+        2. In your own words, what is the input to the task? Be as precise as possible (you could even draw a little table of training data).
+        3. How did the researchers determine which search terms were flu-related? Briefly describe the process (2-3 sentences).
+        4. Identify an example of a *holdout* data set. For what purpose was the holdout set used?
+        5. Identify an example of a *validation* data set. For what purpose was the validation set used?
+        6. The second article identifies two high-level issues that factored into GFT’s problems. What are they?
+        7. The second article identifies two high-level issues that factored into GFT’s problems. What are they?
+        8. Some have claimed that GFT's errors were due media-stoked panic about the flu. The authors challenge this claim. What is their evidence for doing so?
+        9. The authors offer an alternative explanation for GFT's errors. What is it?
+    + Supplementary readings
+        * [Video on GFT](https://www.youtube.com/watch?v=6111nS66Dpk)
+        * [Eight (No, Nine!) Problems With Big Data](http://www.nytimes.com/2014/04/07/opinion/eight-no-nine-problems-with-big-data.html)
 
 - **Wed, Apr 12: Midterm Exam (in class)***
     + The midterm exam will cover the technical material from homeworks 1 and 2.  It will *not* cover material from the machine learning part of the course.  The machine learning content will appear on the final exam.
+
+*... check back here each week for readings, etc.*
 
 
 ## Important dates
