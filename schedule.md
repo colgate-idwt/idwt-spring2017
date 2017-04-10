@@ -136,11 +136,11 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Week 10
 
-- **Mon, Apr 3 Lecture 17**
+- **Mon, Apr 3 Lecture 17: Machine Learning Review**
     + Reading:
         * Read Ch. 4 of DSB.
 
-- **Wed, Apr 5 Lecture 18**
+- **Wed, Apr 5 Lecture 18: Overfitting**
     + Reading:
         * Read Ch. 5 of DSB.
     + Reminder: HW2 is due tonight.
@@ -148,10 +148,10 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Week 11
 
-- **Mon, Apr 10 Lecture 19**
+- **Mon, Apr 10 Lecture 19: Google Flu Trends Revisited**
     + Reading:
         * [Detecting influenza epidemics using search engine query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf).  This is the scientific article, published in Nature, describing Google Flu Trends (GFT).  It's only 2 pages but it is fairly dense and technical.  Your goal: (a) understand at a high level how GFT works, (b) find connections between the methodology used to build GFT and the machine learning reading you did in DSB.
-        * [The Parable of Google Flu: Traps in Big Data Analysis](http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf) An article in Science critiquing GFT.  Please read this closely.   
+        * [The Parable of Google Flu: Traps in Big Data Analysis](http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf) An article in Science critiquing GFT.  Please read this closely.  
     + Questions to guide your reading: Please come to class with answers to these questions:
         1. The researchers ultimately frame the problem of detecting flu outbreaks as a specific data mining task.  What kind of task is it framed as? Choose among the tasks from DSB which include classification, regression, similarity matching, clustering, co-occurrence grouping, profiling, link prediction, data reduction, causal modeling.
         2. In your own words, what is the input to the task? Be as precise as possible (you could even draw a little table of training data).
@@ -169,11 +169,46 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 - **Wed, Apr 12: Midterm Exam (in class)***
     + The midterm exam will cover the technical material from homeworks 1 and 2.  It will *not* cover material from the machine learning part of the course.  The machine learning content will appear on the final exam.
 
-*... check back here each week for readings, etc.*
+## Week 12
 
-
-## Important dates
-
-- Fri, Apr 21: NASC Colloquium Talk: *Data Analysis with Privacy Protection: Seeing the Forest But Not The Trees*
+- **Mon, Apr 17 Lecture 20: Surveillance / Privacy I**
+    + Reading: DG Ch. 1-3 (DG stands for *Data and Goliath*)
+- **Mon, Apr 19 Lecture 21: Surveillance / Privacy II**
+    + Reading: 
+        * [Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/#1)
+        * DG Ch. 4
+- **Fri, Apr 21: NASC Colloquium Talk 3:30 pm in Ho auditorium**: *Data Analysis with Privacy Protection: Seeing the Forest But Not The Trees*
     + You are **required** to attend this event.
+    + Supplemental: [Differential Privacy: A Primer for a Non-technical Audience (Preliminary Version)](https://privacytools.seas.harvard.edu/publications/differential-privacy-primer-non-technical-audience-preliminary-version)
+
+## Week 13
+
+- **Mon, Apr 24 Lecture 22: Surveillance**
+    + Reading: 
+        * [NSA Files Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
+        * DG Ch. 5
+        * [NPR Fresh Air Interview with Glenn Greenwald](http://www.npr.org/2014/05/14/312454746/greenwald-on-nsa-leaks-weve-erred-on-the-side-of-excess-caution), one of the reporters who met with Snowden in Hong Kong and broke the story
+        * Supplemental: Archives ([Guardian](http://www.pulitzer.org/winners/guardian-us) and [Washington Post](http://www.pulitzer.org/winners/washington-post-1)) of the original articles on NSA surveillance, which won the Pulitzer Prize in 2014.
+- **Mon, Apr 26 Lecture 23: Weapons of Math Destruction**
+    + Reading:
+        * *Selected chapters from WMD.  Chapters TBD.*
+
+## Week 14
+
+- **Mon, May 01 Lecture 24: Weapons of Math Destruction**
+    + Reading:
+        * *Selected chapters from WMD.  Chapters TBD.*
+- **Mon, May 03 Lecture 25: Weapons of Math Destruction**
+    + Reading:
+        * *Selected chapters from WMD.  Chapters TBD.*
+
+## Week 15
+
 - Monday, May 08 **Final Exam** 3:00pm-5:00pm.
+
+The final exam will include essay questions.  Candidate essay questions will be posted at the end of classes.  During the exam you will be randomly assigned to one of the essay questoins.  To help guide your reading in the last few weeks, here are some *potential* essay questions.  
+
+1. First, briefly explain how Google Flu Trends (GFT) embodies many of the characteristics of "big data" that were described in course readings.  Then conduct a post-mortem analysis of GFT, analyzing why it failed.  Your analysis should make connections to (at least some) of the big data characteristics described in the first part.
+2. Surveillance requires not only collecting data but actually doing something with the data that is collected.  How have technological advances changed the nature of surveillance?  Your answer should consider both the collection and analysis of data.
+3. Surveillance by government.  First, briefly describe at least two ways the U.S. Government surveils.  Then discuss the societal implications of those surveillance activities, identifying three distinct benefits or risks.
+4. Surveillance by business.  First, briefly describe at least two ways businesses surveil.  Then discuss the societal implications of those surveillance activities, identifying three distinct benefits or risks.
