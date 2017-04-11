@@ -171,6 +171,8 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 ## Week 12
 
+**Discussion Leaders**: Sign up [here](https://docs.google.com/a/colgate.edu/spreadsheets/d/1jSm3X5ARwWWgR_6R5QCMZhXL4lYXvuw8K9EoidfzYqA/edit?usp=sharing) to lead a discussion on one of the remaining 6 lectures.
+
 - **Mon, Apr 17 Lecture 20: Surveillance / Privacy I**
     + Reading: DG Ch. 1-3 (DG stands for *Data and Goliath*)
 - **Mon, Apr 19 Lecture 21: Surveillance / Privacy II**
@@ -206,7 +208,7 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
 
 - Monday, May 08 **Final Exam** 3:00pm-5:00pm.
 
-The final exam will include essay questions.  Candidate essay questions will be posted at the end of classes.  During the exam you will be randomly assigned to one of the essay questoins.  To help guide your reading in the last few weeks, here are some *potential* essay questions.  
+The final exam will include essay questions.  Candidate essay questions will be posted by the last day of classes.  During the exam you will be randomly assigned to one of the essay questoins.  To help guide your reading in the last few weeks, here are some *potential* essay questions.  
 
 1. First, briefly explain how Google Flu Trends (GFT) embodies many of the characteristics of "big data" that were described in course readings.  Then conduct a post-mortem analysis of GFT, analyzing why it failed.  Your analysis should make connections to (at least some) of the big data characteristics described in the first part.
 2. Surveillance requires not only collecting data but actually doing something with the data that is collected.  How have technological advances changed the nature of surveillance?  Your answer should consider both the collection and analysis of data.
