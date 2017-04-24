@@ -193,16 +193,17 @@ A Network Analysis of Relationship Status on Facebook](https://arxiv.org/pdf/131
         * Supplemental: Archives ([Guardian](http://www.pulitzer.org/winners/guardian-us) and [Washington Post](http://www.pulitzer.org/winners/washington-post-1)) of the original articles on NSA surveillance, which won the Pulitzer Prize in 2014.
 - **Mon, Apr 26 Lecture 23: Weapons of Math Destruction**
     + Reading:
-        * *Selected chapters from WMD.  Chapters TBD.*
+        * WMD Introduction, Ch. 1, Ch. 5 (WMD stands for Weapons of Math Destruction, one of the required textbooks for this course)
+        * When reading Ch. 1, take note what characteristics define a WMD.
 
 ## Week 14
 
 - **Mon, May 01 Lecture 24: Weapons of Math Destruction**
     + Reading:
-        * *Selected chapters from WMD.  Chapters TBD.*
+        * WMD Ch. 4 and 6.
 - **Mon, May 03 Lecture 25: Weapons of Math Destruction**
     + Reading:
-        * *Selected chapters from WMD.  Chapters TBD.*
+        * WMD Ch. 8 and 10.
 
 ## Week 15
 
