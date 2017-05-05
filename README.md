@@ -7,7 +7,7 @@ This repository contains course materials for Core 109S In Data We Trust?  Sprin
 - Homework
     + [HW1](hw/hw1sql.pdf)
     + [HW2](hw/hw2algorithms.pdf)
-    + [HW3](hw/hw3ml.pdf)
+    + [HW3](hw/hw3ml.pdf) [HW3 Solutions](hw/hw3ml_solution.pdf)
 - Study guides
 	+ [Midterm Exam](midterm_study_guide.md)
 - Leading discussion:
