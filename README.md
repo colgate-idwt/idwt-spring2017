@@ -10,6 +10,7 @@ This repository contains course materials for Core 109S In Data We Trust?  Sprin
     + [HW3](hw/hw3ml.pdf) [HW3 Solutions](hw/hw3ml_solution.pdf)
 - Study guides
 	+ [Midterm Exam](midterm_study_guide.md)
+	+ [Final Exam](final_study_guide.md)
 - Leading discussion:
  	+ [Guidelines](hw/discussion_leaders.pdf)
 	+ [Sign up to lead discussion](https://docs.google.com/a/colgate.edu/spreadsheets/d/1jSm3X5ARwWWgR_6R5QCMZhXL4lYXvuw8K9EoidfzYqA/edit?usp=sharing)
